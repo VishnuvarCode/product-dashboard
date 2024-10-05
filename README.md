@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Product Dashboard
+
+A React-based product dashboard that allows users to view, filter, sort, and paginate products. This project utilizes Redux for state management and Bootstrap for styling.
+
+## Table of Contents 
+
+- [Installation](#installation)
+- [Running the Project](#running-the-project)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
+## Installation
+npx create-react-app product-dashboard  
+npm install react-dom 
+npm install react-bootstrap bootstrap 
+npm install bootstrap
+npm install redux react-redux @reduxjs/toolkit 
+npm install axios react-router-dom 
+
+To get started, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/VishnuvarCode/product-dashboard.git
